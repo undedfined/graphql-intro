@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "apollo-server": "^2.15.0",
+    "graphql": "^15.1.0",
+    "mongoose": "^5.9.19"
+  }
+}
